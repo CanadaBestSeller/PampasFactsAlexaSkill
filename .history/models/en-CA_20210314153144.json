@@ -1,0 +1,41 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "pampas facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "a fact",
+            "a pampas fact",
+            "tell me a fact",
+            "tell me a pampas fact",
+            "give me a fact",
+            "give me a pampas fact",
+            "tell me trivia",
+            "tell me a pampas trivia",
+            "give me trivia",
+            "give me a pampas trivia",
+            "give me some information",
+            "give me some pampas information",
+            "tell me something",
+            "give me something"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
